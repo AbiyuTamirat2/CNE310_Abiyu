@@ -7,7 +7,7 @@ Following these steps will help you classify IP addresses on your own system usi
 ## Prerequisites
  Python_homework.py requires Python 3 to run. You can install python from here: https://www.python.org/downloads/. 
 
-##xRunning
+## Running
 Once installed you can run the program with the following command
 
 ```
